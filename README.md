@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏦 ATM Cash Withdrawal Simulator (Python)
 
 A simple **Python-based ATM simulation program** that allows users to **check balance, deposit money, withdraw cash,** and **exit** securely with a PIN verification system.
@@ -121,3 +122,7 @@ This project is open for learning and educational use only. You can modify and r
 ## 🤝 Author
 
 **Developed by:** Sherold Crasta
+=======
+# ATM_Simulator_Python
+ATM Cash Withdrawal Simulator in Python
+>>>>>>> b786b1e993cbc4be02645791fe9d8554c68f5987

@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🏦 ATM Cash Withdrawal Simulator (Python)
 
 A simple **Python-based ATM simulation program** that allows users to **check balance, deposit money, withdraw cash,** and **exit** securely with a PIN verification system.
